@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<HTML>
+<BODY>
+<title>VOLCANO</title>
+<b>
+<center><h1>TYPES OF VOLCANO</h1>
+<h1>Cinder cone volcanoes</h1>
+<img src="cinder.jpg" WIDTH:"240" HEIGHT="240" STYLe="float: left">
+<p>A cinder cone volcano is a steep, cone-shaped hill made of loose lava fragments that build around a volcanic vent. They are the most common type of volcano in the world. 
+</p>
+<p>A cinder cone (or scoria cone) is a steep conical hill of loose pyroclastic fragments, such as volcanic clinkers, volcanic ash, or scoria that has been built around a volcanic vent.</p>
+ <p>The pyroclastic fragments are formed by explosive eruptions or lava fountains from a single, typically cylindrical, vent. As the gas-charged lava is blown violently into the air, it breaks into small fragments that solidify and fall as either cinders, clinkers, or scoria<br>
+around the vent to form a cone that often is symmetrical; with slopes between 30 and 40° and a nearly circular ground plan. Most cinder cones have a bowl-shaped crater at the summit</p>
+<br>
+<br>
+<img src="rainier.jpg"  WIDTH:"240" HEIGHT="240" STYLe="float: right">
+<h1>Composite Volcano</h1>
+<p>A stratovolcano, also known as a composite volcano, is a typically conical volcano built up by many alternating layers (strata) of hardened lava and tephra. Unlike shield volcanoes, stratovolcanoes are characterized by a steep profile with a summit crater and explosive eruptions.</p>
+<p>Some have collapsed summit craters called calderas.</p>
+<p> The lava flowing from stratovolcanoes typically cools and solidifies before spreading far, due to high viscosity. The magma forming this lava is often felsic, having high to intermediate levels of silica (as in rhyolite, dacite, or andesite), with lesser amounts of less viscous mafic magma.</p>
+<p> Extensive felsic lava flows are uncommon, but can travel as far as 8 km (5 mi)</p>
+</center></b>
+</body>
+</html>
+
+
+
+
